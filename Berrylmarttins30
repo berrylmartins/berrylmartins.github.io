@@ -1,0 +1,83 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>C V</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="container">
+        <ul>
+                <h1><li style="background: green;">Home</li></h1>
+                <h1><li class="active"><a href="https://berrylmartins.github.io/">Contact Me</a></li></h1>
+
+        </ul>        
+    <img src= "https://res.cloudinary.com/ayomipo9298/image/upload/v1567763533/IMG_20190204_231240_535_vflm0b.jpg" width="250" height="200">
+</br>    
+    <h1><i> AKINOLA UTHMAN AYOMIPO</i></h1>
+
+        <p>
+        <h2><u>ADDRESS</u></h2>
+    </br>
+        <ul class="a">
+        <li>41 Awolowo avenue
+    </br>        
+        Isale igbein, Abeokuta.
+    </br>    
+        (234) 706-087-1533
+    </br>    
+        <b>berylmartins30@gmail.com</b>
+        </li>
+        </ul>
+    </p>
+
+    <p>
+            <h2><u>EXPERIENCE</u></h2>
+       <ul class="a">      
+            <li><b>Independent National Electoral Commission</b>, Abeokuta — <i>Internship</i></li>      
+            <i>AUGUST 2019 - PRESENT</i>      
+            <li><b>Ogun State Property And Investment Corporation</b>, Abeokuta — <i>Intership</i></li>       
+            <i>APRIL 2019 - JULY 2019</i>        
+            <li><b>DOTS Institute of Technology</b>, Abeokuta — <i>Internship</i></li>     
+            <i>JULY 2018 - SEPTEMBER 2018</i>
+       </ul>     
+    </p>
+
+    <p>
+            <h2><u>EDUCATION</u></h2>
+        <ul class="a">    
+            <li><b>Victorroti Private Secondary School</b>, Abeokuta —<i>Senior Secondary School Certificate</i></li>
+            <i>2008 - JULY 2014</i>       
+            <li><b>Crescent University</b>, Abeokuta — <i>B. sc Computer Science</i></li>
+            <i>OCTOBER 2016 - OCTOBER 2020</i>
+        </ul>   
+    </p>
+
+    <p>
+            <h2><u>PROJECTS</u></h2>
+        <ul class="a">           
+            <li>Tourism Reserve Management</li>
+        </ul>                
+    </p>
+
+    <p>
+            <h2><u>SKILLS</u></h2> 
+        <ul class="a">     
+            <li>Skilled in web development.</li>      
+            <li>Skilled in computer operations.</li>
+            <li>Hardworking and discipline.</li>
+        </ul>    
+
+    </p>        
+    
+    <p>
+            <h2><u>LANGUAGES</u></h2>
+        <ul class="a">          
+            <li>English</li>
+            <li>Yoruba</li>
+        </ul>    
+            
+
+    </p>
+</body>
+</html>
